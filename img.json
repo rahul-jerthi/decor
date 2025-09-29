@@ -1,0 +1,100 @@
+[
+    {
+        "id": "003",
+        "name": "3D Jesus Artistry Premium Acrylic Square Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic001.jpg",
+        "tags": [
+            "Jesus",
+            "3D",
+            "square",
+            "spiritual"
+        ]
+    },
+    {
+        "id": "004",
+        "name": "7 Running White Horses in The Sea Premium Acrylic Horizontal Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic002.jpg",
+        "tags": [
+            "horses",
+            "sea",
+            "horizontal",
+            "nature"
+        ]
+    },
+    {
+        "id": "005",
+        "name": "7 White Running Horses in The Sea With Sunrise Premium Acrylic Horizontal Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic003.jpg",
+        "tags": [
+            "horses",
+            "sunrise",
+            "horizontal",
+            "nature"
+        ]
+    },
+    {
+        "id": "006",
+        "name": "Al Kaaba Premium Acrylic Horizontal Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic004.jpg",
+        "tags": [
+            "kaaba",
+            "horizontal",
+            "religious",
+            "islamic"
+        ]
+    },
+    {
+        "id": "007",
+        "name": "Allah Is For All Premium Acrylic Horizontal Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic005.jpg",
+        "tags": [
+            "allah",
+            "horizontal",
+            "spiritual",
+            "islamic"
+        ]
+    },
+    {
+        "id": "008",
+        "name": "Arabic Calligraphy Premium Acrylic Vertical Wall Art",
+        "category": "acrylic",
+        "image_path": "products/acrylic006.jpg",
+        "tags": [
+            "calligraphy",
+            "arabic",
+            "vertical",
+            "islamic"
+        ]
+    },
+    {
+        "id": "009",
+        "name": "Green Beach View Epoxy Resin Wall Clock",
+        "category": "wall_clock",
+        "image_path": "products/clock001.jpg",
+        "tags": [
+            "resin",
+            "green",
+            "beach",
+            "round",
+            "epoxy"
+        ]
+    },
+    {
+        "id": "010",
+        "name": "Multi Waves Epoxy Resin Wall Clock",
+        "category": "wall_clock",
+        "image_path": "products/clock002.jpg",
+        "tags": [
+            "resin",
+            "waves",
+            "multi-color",
+            "round",
+            "epoxy"
+        ]
+    }
+]
