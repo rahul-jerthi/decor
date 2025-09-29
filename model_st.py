@@ -8,8 +8,8 @@ import torch
 import clip
 
 # ---------- Config ----------
-PRODUCTS_JSON = "img.json"         # your products metadata
-PRODUCTS_DIR = "products"          # folder with product images
+PRODUCTS_JSON = "img.json"         
+PRODUCTS_DIR = "products"          
 FEATURES_PKL = "product_features.pkl"
 TOP_K = 5
 
@@ -23,12 +23,7 @@ def load_clip_model():
 
 @st.cache_data(ttl=24*3600, show_spinner=False)  # cache product features for a day
 def load_or_build_features(force_rebuild=False):
-    """
-    Load product features from FEATURES_PKL if present and valid.
-    If missing or force_rebuild=True, compute from images and save.
-    Returns: dict with product_features (np.array shape (N,512)),
-             product_ids (list), products (list of dicts)
-    """
+    
     # Try to load saved file
     if not force_rebuild and os.path.exists(FEATURES_PKL):
         try:
